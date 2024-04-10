@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Association of Southern Louisville, Kentucky
 description         : >-
-                     DISCLAIMER: The Association of Southern Louisville, Kentucky, is a non-governmental, community ran organization dedicated to providing helpful resources for the visitors and residents of Southern Louisville.
+                    The Association of Southern Louisville, Kentucky, is a non-governmental, community ran organization dedicated to providing helpful resources for the visitors and residents of Southern Louisville.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : southlouky.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
