@@ -1,0 +1,55 @@
+---
+layout: default
+title: Volunteer Opportunities
+permalink: /volunteering/
+weight: 4
+---
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Honorable Mentions</title>
+<link rel="shortcut icon" type="image/x-icon" href="{{ "/images/1.png" | prepend: site.baseurl }}" >
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            flex-direction: column;
+        }
+
+        .image-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .image {
+            width: 337px;
+            height: 337px;
+        }
+
+        .text {
+            font-size: 24px;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="image-container">
+        <img src="/images/1.png" alt="Image" class="image">
+    </div>
+    <div class="text">The Association of Southern Louisville, Kentucky will be looking for volunteers in the near future, as we continue to expand in order to offer services accross all of Southern Louisville. In the meantime, if you are looking to reach out to us, you can do so via email (contact@southlouky.com)</div>
+    <script>
+document.addEventListener("DOMContentLoaded", function() {
+    var attribution = document.getElementById("attribution");
+    if (attribution) {
+        attribution.style.display = "none";
+    }
+});    
+</script>
+</body>
