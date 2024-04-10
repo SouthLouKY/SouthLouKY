@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Information
+permalink: /information/
 weight: 3
 ---
 
