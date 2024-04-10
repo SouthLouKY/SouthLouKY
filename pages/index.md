@@ -3,4 +3,6 @@ layout: default
 permalink: /
 ---
 
+<link rel="shortcut icon" type="image/x-icon" href="{{ "/images/favicon.ico" | prepend: site.baseurl }}" >
+
 {% include landing.html %}
