@@ -1,7 +1,7 @@
-- name: Violent Crime
-  percentage: 0
+- name: Violent Crime (National Average 22.7) (Data Per FBI)
+  percentage: 46.2
   color: danger
 
-- name: Property Crime
-  percentage: 0
+- name: Property Crime (National Average 35.4) (Data Per FBI)
+  percentage: 87.2
   color: danger
