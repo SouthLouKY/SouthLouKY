@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! This README file is for The Association of Southern Louisville, Kentucky. It is tied directly to the website that provides all important information regarding this organization.
 
 <!--
 **SouthLouKY/SouthLouKY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
