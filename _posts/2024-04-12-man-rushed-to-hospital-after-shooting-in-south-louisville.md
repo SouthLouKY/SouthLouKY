@@ -1,6 +1,6 @@
 ---
 title: Man rushed to hospital after shooting in South Louisville
-tags: [News]
+tags: [News, LMPD, Shooting]
 style: 
 color: 
 description: A man was shot early Friday morning near Iroquois Park
