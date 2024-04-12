@@ -1,6 +1,6 @@
 ---
 title: LMPD reforms underway after DOJ mandated changes
-tags: [News]
+tags: [News, LMPD, DOJ]
 style: 
 color: 
 description: The LMPD has revealed reforms to the department are underway after the Department of Justice mandated changes.
