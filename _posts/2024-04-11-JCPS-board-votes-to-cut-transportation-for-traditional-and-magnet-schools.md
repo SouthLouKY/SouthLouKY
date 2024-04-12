@@ -1,6 +1,6 @@
 ---
 title: JCPS board votes to cut transportation to magnet and traditional schools
-tags: [News]
+tags: [News, JCPS]
 style: 
 color: 
 description: Following a heated discussion that took place on April 10th, at 6:00 PM EST, the JCPS board voted to cut transportation for traditional and magnet schools.
